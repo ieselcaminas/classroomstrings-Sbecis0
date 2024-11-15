@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 public static boolean verificarParentesis(String expresion) {
     int c = 0;
 
